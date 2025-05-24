@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @yash00300  
+- 👀 I’m interested in backend development, RESTful APIs, and Python-based systems.  
+- 🌱 I've completed my MCA and am currently looking for a full-time job opportunity in backend or Python development.  
+- 💞️ I’m looking to collaborate on open-source backend projects, Django-based web applications, or automation tools.  
+- 📫 How to reach me: Email me at yashswami00300@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yash-swami-723)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I once built a face recognition-based attendance system using a CCTV camera, and it worked like a charm!
