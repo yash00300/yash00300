@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yash00300  
 - 👀 I’m interested in backend development, RESTful APIs, and Python-based systems.  
-- 🌱 I've completed my MCA and am currently looking for a full-time job opportunity in backend or Python development.
+- 🎓 I've completed my MCA and am currently looking for a full-time job opportunity in backend or Python development.
 - 💼 Precious Infosystem pvt ltd (On-site Internship) – Gained practical industry experience working directly with a team and gained hands-on experience .
 - 👨‍💻 CodSoft (Virtual Internship) – Completed a remote internship focused on Python-based mini projects and software development fundamentals.
 - 💞️ I’m looking to collaborate on open-source backend projects, Django-based web applications, or automation tools.  
